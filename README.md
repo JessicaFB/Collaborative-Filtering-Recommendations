@@ -1,1 +1,1 @@
-# Recommendations-by-Affinity-Score
+# Make user recommendations by collaborative filtering. 
